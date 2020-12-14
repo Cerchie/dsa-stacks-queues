@@ -40,6 +40,10 @@ Error-handle, using a msg like "must enter site-list"
 
 9. Write my pseudocode. Does this reveal anything else I don't understand about the problem?
 Given: We've got Node and Stack classes with push(), pop(), peek() and isEmpty() methods defined on Stack. 
+
+
+
+
 const browser = (sites) =>
 { 
 
